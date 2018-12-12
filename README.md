@@ -15,4 +15,4 @@ Course Distributed Systems: Java EE
 **Score**: Maximum Score
 
 ## About
-Car rental application using persistence and transactions in Java EE. Furthermore, car rental companies, cars and reservations are stored in a database and can be queried via JPQL. (see full [car rental project](https://github.com/matt77hias/meta-carrental))
+Car rental application using persistence and transactions in Java EE. Furthermore, car rental companies, cars and reservations are stored in a database and can be queried via JPQL. (See full [car rental project](https://github.com/matt77hias/meta-carrental))
