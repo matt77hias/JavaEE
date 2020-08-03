@@ -3,7 +3,7 @@
 [s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
 [li]: https://raw.githubusercontent.com/matt77hias/JavaEE/master/LICENSE.txt
 
-# JavaEE
+# Java EE
 Course Distributed Systems: Java EE
 
 **Team**:
